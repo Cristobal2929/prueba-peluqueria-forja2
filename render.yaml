@@ -1,0 +1,6 @@
+services:
+  - type: web
+    runtime: static
+    name: prueba-peluqueria-forja2
+    buildCommand: ""
+    staticPublishPath: ./
